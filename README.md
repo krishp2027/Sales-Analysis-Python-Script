@@ -67,7 +67,7 @@ Examples of the analysis and visualizations can be found in the `Sales_Analysis.
 - **Package Issues**: Verify all required packages are installed using the `pip install` command.
 
 ### Contributors
-- [Your Name](mailto:your.email@example.com)
+- [Krish Patel](mailto:your.email@example.com)
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
